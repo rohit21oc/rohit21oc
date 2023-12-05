@@ -35,4 +35,4 @@
 </div>
 
 <h3 align="left">Portfolio</h3>
-<p><a href="[https://ko-fi.com/Ko-fi](https://rohit21oc.github.io/CodeCraftsman.github.io/)"> <img align="left" src="https://t4.ftcdn.net/jpg/05/14/38/41/240_F_514384104_SWqCecBXpODexZlmt1LJqrgZTMg3LSCG.jpg" height="50" width="210" alt="i" /></a></p><br><br>
+<p><a href="[https://ko-fi.com/Ko-fi](https://rohit21oc.github.io/CodeCraftsman.github.io/)"> <img align="left" src="https://t4.ftcdn.net/jpg/05/14/38/41/240_F_514384104_SWqCecBXpODexZlmt1LJqrgZTMg3LSCG.jpg" height="100px" width="300px" alt="i" /></a></p><br><br>
