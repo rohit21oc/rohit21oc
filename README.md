@@ -35,4 +35,4 @@
 </div>
 
 <h3 align="left">Portfolio</h3>
-<p><a href="[https://ko-fi.com/Ko-fi](https://rohit21oc.github.io/CodeCraftsman.github.io/)"> <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
+<p><a href="[https://ko-fi.com/Ko-fi](https://rohit21oc.github.io/CodeCraftsman.github.io/)"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" height="50" width="210" alt="i" /></a></p><br><br>
