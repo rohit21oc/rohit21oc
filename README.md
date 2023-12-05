@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit21oc&label=Profile%20views&color=0e75b6&style=flat" alt="rohit21oc" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java + DSA**
 
 - 💬 Ask me about **Python,Java,HTML,C**
 
