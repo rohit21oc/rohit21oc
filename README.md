@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h1 align="center">Hay 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" width="400" alt="coding" src="https://indoanalytica.com/static/images/web-development-1.gif">
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java + DSA**
 
-- 💬 Ask me about **Python,Java,HTML,C**
+- 💬 Ask me about **JavaScript,Java,HTML,CSS**
 
-- 📫 How to reach me **rohitkumar15031@gmail.com**
+- 📫 How to reach me **rohit21oc@gmail.com**
 
 - ⚡ Fun fact **Funny Boy**
 
