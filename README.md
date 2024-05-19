@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit21oc&label=Profile%20views&color=0e75b6&style=flat" alt="rohit21oc" /> </p>
 
-- 🌱 I’m currently learning **Java + DSA**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **JavaScript,Java,HTML,CSS**
+- 💬 Ask me about **JavaScript,Java,HTML,CSS,Node JS,MongoDB,MySQL,Express JS**
 
 - 📫 How to reach me **rohit21oc@gmail.com**
 
